@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-![smart24](https://github-readme-stats.vercel.app/api?username=smart24&show_icons=true&theme=dark&count_private=true)
+![smart24](https://github-readme-stats.vercel.app/api?username=smart24&show_icons=true&theme=light&count_private=true)
 
 <!--
 **smart24/smart24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
