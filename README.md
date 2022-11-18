@@ -8,7 +8,8 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/smart24&right_color=red" />  
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=smart24&show_icons=true&theme=light&count_private=true)  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=smart24&show_icons=true&theme=light&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=smart24&show_icons=true&theme=light&count_private=true" style="margin-top:9px;">  
 <img src="https://stats.justsong.cn/api/juejin?id=3720403075742942&theme=light" style="margin-left:-16px;">  
 ![Jue Jin Statistics](https://stats.justsong.cn/api/juejin?id=3720403075742942&theme=light)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smart24&theme=light)  
