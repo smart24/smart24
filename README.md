@@ -1,6 +1,6 @@
 # Hi 🎉 Welcome to 极速's Github Homepage!
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20visitor!;Welcom%20To%20My%20Github%20Homepage!&font=Roboto" />
 
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
