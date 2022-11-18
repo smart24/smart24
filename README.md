@@ -4,7 +4,7 @@
 
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Android&color=blue"/>
-<a href="https://juejin.cn/user/3720403075742942"><img src="https://img.shields.io/static/v1?label=Blog&message=稀土掘金&color=red"/></a>
+<a href="https://juejin.cn/user/3720403075742942"><img src="https://img.shields.io/static/v1?label=Blog&message=JueJin&color=red"/></a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/smart24&right_color=red" />
 </p>
 
