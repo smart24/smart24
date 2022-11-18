@@ -1,16 +1,15 @@
-# Hi 🎉 Welcome to 极速's Github Homepage!
+# Hi 🎉 Welcome To 极速's Github Homepage!
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20visitor!;Welcom%20To%20My%20Github%20Homepage!&font=Roboto" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20Visitor!;Welcome%20To%20My%20Github%20Homepage!&font=Roboto" />
 
 <p>
-<img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
-<a href="https://blog.csdn.net/wangzirui32"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
-<a href="https://space.bilibili.com/1513364019"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan"/></a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/wangzirui32&right_color=red" />
+<img src="https://img.shields.io/static/v1?label=Program&message=Android&color=blue"/>
+<a href="https://juejin.cn/user/3720403075742942"><img src="https://img.shields.io/static/v1?label=Blog&message=稀土掘金&color=red"/></a>
+<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/smart24&right_color=red" />
 </p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wangzirui32&theme=dark&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=wangzirui32&show_icons=true&theme=dark&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smart24&theme=light&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=smart24&show_icons=true&theme=light&count_private=true)
 ![](https://stats.justsong.cn/api/csdn?id=wangzirui32&theme=dark)
 ![](https://stats.justsong.cn/api/bilibili/?id=1513364019&theme=dark)
 ![](https://activity-graph.herokuapp.com/graph?username=wangzirui32&theme=github)
