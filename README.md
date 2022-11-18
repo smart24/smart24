@@ -1,4 +1,4 @@
-# Hi 🎉 Welcome To 极速 24 号's Github Homepage!
+# Hi 🎉 Welcome To 极速's Github Homepage!
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20Visitor!;Welcome%20To%20My%20Github%20Homepage!&font=Roboto" />  
 
@@ -9,7 +9,7 @@
 </p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=smart24&show_icons=true&theme=light&count_private=true)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smart24&theme=light&layout=compact)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smart24&theme=light)  
 ![Jue Jin Statistics](https://stats.justsong.cn/api/juejin?id=3720403075742942&theme=light)  
 ![Visitor Statistics](https://activity-graph.herokuapp.com/graph?username=smart24&theme=github)  
 
