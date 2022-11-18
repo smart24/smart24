@@ -1,8 +1,7 @@
 # Hi 🎉 Welcome To 极速's Github Homepage!
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20Visitor!;Welcome%20To%20My%20Github%20Homepage!&font=Roboto" />  
-
-<p>You are my  <img src="https://profile-counter.glitch.me/all-smile/count.svg" alt="Visitor Statistics"/> visitor, Thank you 👏👏</p>  
+<!-- <p>You are my  <img src="https://profile-counter.glitch.me/all-smile/count.svg" alt="Visitor Statistics"/> visitor, Thank you 👏👏</p> -->
 
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Android&color=blue"/>  
