@@ -2,7 +2,7 @@
 
 ![smart24](https://github-readme-stats.vercel.app/api?username=smart24&show_icons=true&theme=light&count_private=true)  
 
-![language](https://github-readme-stats.vercel.app/api/top-langs/?username=smart24&theme=dark&layout=compact)  
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username=smart24&theme=light&layout=compact)  
 
 <!--
 **smart24/smart24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
