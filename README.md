@@ -9,7 +9,7 @@
 </p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=smart24&show_icons=true&theme=light&count_private=true)  
-<img src="https://stats.justsong.cn/api/juejin?id=3720403075742942&cn=true" style="box-shadow:none !important">  
+<img src="https://stats.justsong.cn/api/juejin?id=3720403075742942&theme=light" style="box-shadow:none !important">  
 ![Jue Jin Statistics](https://stats.justsong.cn/api/juejin?id=3720403075742942&theme=light)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smart24&theme=light)  
 ![Visitor Statistics](https://activity-graph.herokuapp.com/graph?username=smart24&theme=github)  
