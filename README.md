@@ -2,6 +2,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20Visitor!;Welcome%20To%20My%20Github%20Homepage!&font=Roboto" />  
 
+<p>You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor, Thank you 👏👏</p>
+
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Android&color=blue"/>  
 <a href="https://juejin.cn/user/3720403075742942"><img src="https://img.shields.io/static/v1?label=Blog&message=JueJin&color=red"/></a>  
