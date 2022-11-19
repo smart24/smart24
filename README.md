@@ -4,9 +4,9 @@
 <!-- <p>You are my  <img src="https://profile-counter.glitch.me/all-smile/count.svg" alt="Visitor Statistics"/> visitor, Thank you 👏👏</p> -->
 
 <p>
-<img src="https://img.shields.io/static/v1?label=Program&message=Android&color=blue"/>  
+<img src="https://img.shields.io/static/v1?label=Language&message=Android&color=blue"/>  
 <a href="https://juejin.cn/user/3720403075742942"><img src="https://img.shields.io/static/v1?label=Blog&message=JueJin&color=red"/></a>  
-<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/smart24&right_color=red" />  
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/smart24&right_color=red" />-->
 </p>
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smart24&theme=light) -->
