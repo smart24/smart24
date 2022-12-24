@@ -14,7 +14,7 @@
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smart24&theme=light) -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=smart24&show_icons=true&theme=light&count_private=true)  
 <!-- ![Jue Jin Statistics](https://stats.justsong.cn/api/juejin?id=3720403075742942&theme=light)   -->
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=smart24&theme=github)  
+<!-- ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=smart24&theme=github)   -->
 
 # 🌱 I’m currently learning Kotlin...
 
